@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fxnoob/chat-anywhere-landing.git"
+    "url": "git+https://github.com/fxnoob/image-to-text-landing.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fxnoob/chat-anywhere-landing/issues"
+    "url": "https://github.com/fxnoob/image-to-text-landing.git/issues"
   },
-  "homepage": "https://github.com/fxnoob/chat-anywhere-landing#readme",
+  "homepage": "https://github.com/fxnoob/image-to-text-landing#readme",
   "devDependencies": {
     "gh-pages": "^2.2.0"
   }
