@@ -1,7 +1,7 @@
 {
-  "name": "chat-anywhere-landing",
+  "name": "image-to-text-ocr",
   "version": "1.0.0",
-  "description": "Landing page for Chat Anywhere [chrome extension](url)",
+  "description": "Landing page for Image to Text (OCR) chrome extension",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d .",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fxnoob/chat-anywhere-landing.git"
+    "url": "git+https://github.com/fxnoob/image-to-text-landing.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fxnoob/chat-anywhere-landing/issues"
+    "url": "https://github.com/fxnoob/image-to-text-landing/issues"
   },
-  "homepage": "https://github.com/fxnoob/chat-anywhere-landing#readme",
+  "homepage": "https://github.com/fxnoob/image-to-text-landing#readme",
   "devDependencies": {
     "gh-pages": "^2.2.0"
   }
